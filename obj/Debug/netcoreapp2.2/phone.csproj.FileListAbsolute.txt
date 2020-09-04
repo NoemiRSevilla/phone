@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/bin/Debug/netcoreapp2.2/phone.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/OOP/phone/obj/Debug/netcoreapp2.2/phone.pdb
